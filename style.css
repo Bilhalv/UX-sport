@@ -8,11 +8,12 @@ body {
 
 header {
   background-color: #aacc00;
-  padding: 10px;
-  width: 20;
+  padding: 2%;
+  width: 95%;
   height: 20;
   border-radius: 15px;
-  border: #002e22 solid 5px;
+  background: linear-gradient(to top, #ffffff, #aacc00);
+  margin: 0;
 }
 
 h1 {
